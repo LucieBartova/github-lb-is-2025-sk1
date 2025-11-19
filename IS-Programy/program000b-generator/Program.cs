@@ -5,7 +5,7 @@ while (again == "a")
     Console.WriteLine("*******************************************");
     Console.WriteLine("***** Generátor pseudonáhodných čísel *****");
     Console.WriteLine("*******************************************");
-    Console.WriteLine("*************** Tomáš Žižka ***************");
+    Console.WriteLine("************** Lucie Bártová **************");
     Console.WriteLine("*******************************************");
     Console.WriteLine();
     
