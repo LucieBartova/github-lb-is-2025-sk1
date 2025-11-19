@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\bin\Debug\net9.0\program004c-tri-obrazce.exe
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\bin\Debug\net9.0\program004c-tri-obrazce.deps.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\bin\Debug\net9.0\program004c-tri-obrazce.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\bin\Debug\net9.0\program004c-tri-obrazce.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\bin\Debug\net9.0\program004c-tri-obrazce.pdb
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\program004c-tri-obrazce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\program004c-tri-obrazce.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\program004c-tri-obrazce.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\program004c-tri-obrazce.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\program004c-tri-obrazce.sourcelink.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\program004c-tri-obrazce.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\refint\program004c-tri-obrazce.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\program004c-tri-obrazce.pdb
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\program004c-tri-obrazce.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program004c-tri-obrazce\obj\Debug\net9.0\ref\program004c-tri-obrazce.dll
