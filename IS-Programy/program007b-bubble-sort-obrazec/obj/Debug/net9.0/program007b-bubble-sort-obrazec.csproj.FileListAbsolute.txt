@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.exe
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.deps.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\bin\Debug\net9.0\program007b-bubble-sort-obrazec.pdb
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.sourcelink.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\refint\program007b-bubble-sort-obrazec.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.pdb
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\program007b-bubble-sort-obrazec.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program007b-bubble-sort-obrazec\obj\Debug\net9.0\ref\program007b-bubble-sort-obrazec.dll

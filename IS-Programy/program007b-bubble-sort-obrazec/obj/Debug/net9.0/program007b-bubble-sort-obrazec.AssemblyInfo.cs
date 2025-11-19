@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("program007a-bubble-sort")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("program007b-bubble-sort-obrazec")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6a8d8924f846794dfb610fca98c3bb9fef78c06")]
-[assembly: System.Reflection.AssemblyProductAttribute("program007a-bubble-sort")]
-[assembly: System.Reflection.AssemblyTitleAttribute("program007a-bubble-sort")]
+[assembly: System.Reflection.AssemblyProductAttribute("program007b-bubble-sort-obrazec")]
+[assembly: System.Reflection.AssemblyTitleAttribute("program007b-bubble-sort-obrazec")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild
