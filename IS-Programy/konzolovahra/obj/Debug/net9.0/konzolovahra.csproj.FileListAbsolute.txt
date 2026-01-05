@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\VS_code\konzolovahra\bin\Debug\net9.0\konzolovahra.exe
+C:\Users\Admin\Desktop\VS_code\konzolovahra\bin\Debug\net9.0\konzolovahra.deps.json
+C:\Users\Admin\Desktop\VS_code\konzolovahra\bin\Debug\net9.0\konzolovahra.runtimeconfig.json
+C:\Users\Admin\Desktop\VS_code\konzolovahra\bin\Debug\net9.0\konzolovahra.dll
+C:\Users\Admin\Desktop\VS_code\konzolovahra\bin\Debug\net9.0\konzolovahra.pdb
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\konzolovahra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\konzolovahra.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\konzolovahra.AssemblyInfo.cs
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\konzolovahra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\konzolovahra.dll
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\refint\konzolovahra.dll
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\konzolovahra.pdb
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\konzolovahra.genruntimeconfig.cache
+C:\Users\Admin\Desktop\VS_code\konzolovahra\obj\Debug\net9.0\ref\konzolovahra.dll
