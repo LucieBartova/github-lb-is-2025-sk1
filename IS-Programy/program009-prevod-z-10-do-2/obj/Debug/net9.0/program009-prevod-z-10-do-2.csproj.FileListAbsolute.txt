@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\bin\Debug\net9.0\program009-prevod-z-10-do-2.exe
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\bin\Debug\net9.0\program009-prevod-z-10-do-2.deps.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\bin\Debug\net9.0\program009-prevod-z-10-do-2.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\bin\Debug\net9.0\program009-prevod-z-10-do-2.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\bin\Debug\net9.0\program009-prevod-z-10-do-2.pdb
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\program009-prevod-z-10-do-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\program009-prevod-z-10-do-2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\program009-prevod-z-10-do-2.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\program009-prevod-z-10-do-2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\program009-prevod-z-10-do-2.sourcelink.json
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\program009-prevod-z-10-do-2.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\refint\program009-prevod-z-10-do-2.dll
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\program009-prevod-z-10-do-2.pdb
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\program009-prevod-z-10-do-2.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\github-lb-is-2025-sk1\IS-Programy\program009-prevod-z-10-do-2\obj\Debug\net9.0\ref\program009-prevod-z-10-do-2.dll
